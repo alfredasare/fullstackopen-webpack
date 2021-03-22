@@ -12,6 +12,7 @@ const config = {
         port: 3000,
         open: true
     },
+    devtool: "source-map",
     module: {
         rules: [
             {
